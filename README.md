@@ -1,3 +1,3 @@
 # Projects
-Simple project where I upload classical ciphers encoders or decoders
+Simple project
 feel free to use 
