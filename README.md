@@ -1,3 +1,3 @@
 # Projects
-Simple project
+Simple projects
 feel free to use 
